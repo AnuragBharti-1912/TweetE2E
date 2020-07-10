@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16044" started-at="2020-07-10T18:27:20Z" finished-at="2020-07-10T18:27:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16044" started-at="2020-07-10T18:27:20Z" finished-at="2020-07-10T18:27:36Z">
+      <class name="practice.TweetKaro">
+        <test-method status="PASS" signature="statusUpdate()[pri:1, instance:practice.TweetKaro@29774679]" name="statusUpdate" duration-ms="14742" started-at="2020-07-10T23:57:20Z" finished-at="2020-07-10T23:57:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusUpdate -->
+        <test-method status="PASS" signature="getUpdate()[pri:2, instance:practice.TweetKaro@29774679]" name="getUpdate" duration-ms="608" started-at="2020-07-10T23:57:34Z" finished-at="2020-07-10T23:57:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUpdate -->
+        <test-method status="PASS" signature="delUpdate()[pri:3, instance:practice.TweetKaro@29774679]" name="delUpdate" duration-ms="671" started-at="2020-07-10T23:57:35Z" finished-at="2020-07-10T23:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delUpdate -->
+      </class> <!-- practice.TweetKaro -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
